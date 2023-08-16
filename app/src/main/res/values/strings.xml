@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MTG_Tome</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next_random_card">Next Random Card</string>
+    <string name="card_name_edit_text">Card Name</string>
+    <string name="search_button">Search</string>
+    <string name="color_button">Choose Colors</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="black">Black</string>
+    <string name="white">White</string>
+    <string name="no_color">No Color</string>
+    <string name="selected_colors_text">Selected Colors</string>
+    <string name="add_to_deck_button">Add to collection</string>
+    <string name="my_collection">My Cards</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="decks">Decks</string>
+    <string name="collection">Collection</string>
+    <string name="card_amount">Enter number of card</string>
+    <string name="card_name">Card Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="change_quantity">Change Quantity</string>
+    <string name="collection_quantity">Quantity: </string>
+    <string name="my_decks">My Decks</string>
+    <string name="add_new_deck">Add New Deck</string>
+    <string name="enter_the_name_of_deck">Enter the name of deck</string>
+    <string name="add_to_deck">Add to deck</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="deck_name">Deck Name</string>
+    <string name="change_name">Change Name</string>
+    <string name="delete_deck">Delete Deck</string>
+</resources>
